@@ -20,7 +20,8 @@ window.alert("'Welcome to my Garden'");
 
 Design also Code , Product is also Supervisor
 
-🔭 Working on [WAVE.SO](https://wave.so)
+🔭 Working on [wave.so](https://wave.so)
+
 📫 Blog at [hwang.top](https://hwang.top)
 
 
