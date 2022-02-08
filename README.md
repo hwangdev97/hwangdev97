@@ -26,12 +26,14 @@ About me.
 
 ↦ 📫 Newsletter [bamboo.white](http://growing.zhubai.love/) or [revue](http://newsletter.hwang.top/)
 
-----
+————
+
 🎂 1997/06/16
 
 📌 Zhejiang - Hangzhou 
 
 
+----
 
 关于我：
 
