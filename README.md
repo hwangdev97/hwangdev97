@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hwangdev97/hwangdev97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Hwang  👋
 
-### About me.
+About me.
 
 ↦ Do design also write 🤏 code, i.e. product also ⌛️ supervisor
 
