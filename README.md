@@ -35,4 +35,4 @@ Hi, I'm Hwang  👋
 
 ### Status
 
-[![Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/hwangdev97/github-readme-stats)
+[![Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangdev97)](https://github.com/hwangdev97/github-readme-stats)
