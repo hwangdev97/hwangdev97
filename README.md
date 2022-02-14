@@ -22,7 +22,7 @@ About me.
 
 ↦ 🔭 Working on [wave.so](https://wave.so)
 
-↦ 📫 Newsletter [bamboo.white](http://growing.zhubai.love/) or [revue](http://newsletter.hwang.top/)
+↦ 📫 Newsletter [zhubai](http://growing.zhubai.love/) or [revue](http://newsletter.hwang.top/)
 
 ---
 
