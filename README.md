@@ -19,10 +19,6 @@ Here are some ideas to get you started:
  -->
 Hi, I'm Hwang  👋
 
-About me.
-
-↦ Do design also write 🤏 code, i.e. product also ⌛️ supervisor
-
 ↦ 💬 Blog [hwang.top](https://hwang.top)
 
 ↦ 🔭 Working on [wave.so](https://wave.so)
