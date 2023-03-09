@@ -21,10 +21,6 @@ Hi, I'm Hwang  👋
 
 ↦ 💬 Blog [hwang.top](https://hwang.top)
 
-↦ 🔭 Working on [wave.so](https://wave.so)
-
-↦ 📫 Newsletter [zhubai](http://growing.zhubai.love/) or [revue](http://newsletter.hwang.top/)
-
 
 📌 Zhejiang - Hangzhou 
 
