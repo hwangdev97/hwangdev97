@@ -19,7 +19,8 @@ Here are some ideas to get you started:
  -->
 Hi, I'm Hwang  👋
 
-↦ 💬 Blog [hwang.top](https://hwang.top)
+↦ 🌍 more info bento.me/hwang
+
 
 
 📌 Zhejiang - Hangzhou 
