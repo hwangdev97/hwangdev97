@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  -->
 Hi, I'm Hwang  👋
 
-↦ 🌍 more info [bento.me/hwang](bento.me/hwang)
+↦ 🌍 more info [bento.me/hwang](https://www.bento.me/hwang)
 
 
 
