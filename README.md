@@ -34,7 +34,6 @@ Working for [AFFiNE](https://affine.pro)
 
 ↦ 🌍 more info [bento.me/hwang](https://www.bento.me/hwang)
 
-📌 Zhejiang - Hangzhou 
 
 
 
