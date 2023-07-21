@@ -19,9 +19,6 @@ Here are some ideas to get you started:
  -->
 Hi, I'm Hwang  👋
 
-![svg-drawing (3)](https://github.com/hwangdev97/hwangdev97/assets/24713927/7843eb22-5d88-41d6-945e-40734eeb3d7a)
-
-
 Working for [AFFiNE](https://affine.pro)
 
 
