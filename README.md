@@ -32,7 +32,7 @@ Working for [AFFiNE](https://affine.pro)
 
 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
-↦ more info [bento.me/hwang](https://www.bento.me/hwang)
+↦ more info [hwang.fun](https://hwang.fun)
 
 
 
