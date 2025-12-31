@@ -21,17 +21,15 @@ Hi, I'm Hwang  👋
 
 Working for [AFFiNE](https://affine.pro)
 
-
-𝗜𝗻𝗱𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝘁 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗼𝗿𝗸𝘀
-
+- [Hands Time](https://apps.apple.com/us/app/hands-time-minimalist-widget/id6462440720)
 
 - [Lofi. - lofi music and time-tracking](https://apps.apple.com/app/id1628710103) [🌍](https://lofidot.com)
 
 - [Sleepy Coffee - enjoy coffee, enjoy sleep](https://apps.apple.com/us/app/sleepy-coffee/id1622169968) [🌍](sleepycoffee.app)
 
-𝗔𝘀 𝗮 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗼𝗿𝗸𝘀
 
-- [Hands Time](https://apps.apple.com/us/app/hands-time-minimalist-widget/id6462440720)
+
+
 
 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
