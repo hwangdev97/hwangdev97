@@ -8,6 +8,7 @@
 
 
 #### AI
+- [Viber](https://viber.today) iOS Vibe Coding Tools, Connect your Claude Code / Codex everywhere
 
 - [Deux](https://harness.today/deux) Turn an iOS codebase into a native Android codebase. Build once. Ship twice. With AI.
 
